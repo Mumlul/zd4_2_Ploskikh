@@ -1,0 +1,6 @@
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\bin\Debug\ProvLibrary.dll
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\bin\Debug\ProvLibrary.pdb
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\obj\Debug\ProvLibrary.csproj.AssemblyReference.cache
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\obj\Debug\ProvLibrary.csproj.CoreCompileInputs.cache
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\obj\Debug\ProvLibrary.dll
+C:\Users\plosk\OneDrive\Рабочий стол\yp-4\ProvLibrary\obj\Debug\ProvLibrary.pdb

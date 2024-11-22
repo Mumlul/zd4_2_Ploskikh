@@ -1,0 +1,10 @@
+C:\PLOSKIKH\yp-4\GcdConsole\bin\Debug\GcdConsole.exe.config
+C:\PLOSKIKH\yp-4\GcdConsole\bin\Debug\GcdConsole.exe
+C:\PLOSKIKH\yp-4\GcdConsole\bin\Debug\GcdConsole.pdb
+C:\PLOSKIKH\yp-4\GcdConsole\bin\Debug\NaturalNumsLib.dll
+C:\PLOSKIKH\yp-4\GcdConsole\bin\Debug\NaturalNumsLib.pdb
+C:\PLOSKIKH\yp-4\GcdConsole\obj\Debug\GcdConsole.csproj.AssemblyReference.cache
+C:\PLOSKIKH\yp-4\GcdConsole\obj\Debug\GcdConsole.csproj.CoreCompileInputs.cache
+C:\PLOSKIKH\yp-4\GcdConsole\obj\Debug\GcdConsole.csproj.Up2Date
+C:\PLOSKIKH\yp-4\GcdConsole\obj\Debug\GcdConsole.exe
+C:\PLOSKIKH\yp-4\GcdConsole\obj\Debug\GcdConsole.pdb
